@@ -15,7 +15,7 @@
 支持：web、jar、docker<p/>
 支持：1）将开发运维管理系统部署至客户环境，将应用发布至客户环境、访问服务器、查看日志、执行sql。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-2）将开发运维管理系统部署至公司环境，将应用发布至客户环境、访问服务器、查看日志、执行sql。<br>
+2）将开发运维管理系统部署至公司环境，将应用发布至客户环境、访问服务器、查看日志、执行sql。<br><br>
 
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
