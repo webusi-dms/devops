@@ -1,8 +1,7 @@
-<!-- lang: java -->
 <p align="center">
 	<img alt="logo" src="favicon.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">devops v1.0.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">devops v1.2.0</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的轻量级开发运维管理系统</h4>
 <p align="center">
 	<a href="https://gitee.com/webusi/devops/stargazers"><img src="https://gitee.com/webusi/devops/badge/star.svg?theme=dark"></a>
@@ -10,9 +9,12 @@
 </p>
 
 ## 平台简介
+一个前端 + 一个后端 就覆盖开发运维系统核心能力 发布应用、访问服务器、查询日志、监控告警。<br><br>
+不用安装jenkins、prometheus、jumpserver、grafana等终端开源工具。<br><br>
+轻松支撑生产平稳运行。<br><br>
 
 开发运维管理系统 将开发（Dev）和运维（Ops）进行有机结合，提供一整套工具，可以有效提高软件交付的效率和质量。<p/>
-主要功能包括：服务器管理、授权管理、应用管理、部署管理、发布管理、WEB终端、应用发布、上传下载、数据库客户端、查询应用日志。<p/>
+主要功能包括：服务器管理、授权管理、应用管理、部署管理、发布管理、WEB终端、应用发布、上传下载、数据库客户端、查询应用日志、系统监控<p/>
 支持：web、jar、docker<p/>
 支持：1）将开发运维管理系统部署至客户环境，将应用发布至客户环境、访问服务器、查看日志、执行sql。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,11 +32,10 @@
 https://www.webusi.net
 
 ## 更新日志
-### 1.0.1 开发中
-1.  优化：上传下载调整界面布局
-2.  优化：应用发布：展示发布配置更多信息；解决发布发布日志串联问题
-3.  功能：增加邮箱验证码
-4.  功能：发布时增加显示文件上传进度
+### 1.2.0 2024-11-07
+1.  优化：应用发布，支持选择环境
+2.  优化：增加显示连接方式：直连、代理
+3.  功能：增加系统监控：监控项、监控主机、主机监控项、监控策略、监控大屏、告警提醒
 
 ### 1.0.0 2024-05-10
 1.  功能：部署管理：环境、系统、应用、服务器、服务器用户、应用部署、数据库
@@ -75,6 +76,10 @@ https://www.webusi.net
 
 ## 演示图
 <table>
+    <tr>
+        <td><img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241107/603dc019f5764496931f44f14b6a0013.png"/></td>
+        <td><img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241107/28ee6857fac442d4ada1c024e5fe74f4.png"/></td>
+    </tr>
     <tr>
         <td><img src="devops/devops-1.png"/></td>
         <td><img src="devops/devops-2.png"/></td>
