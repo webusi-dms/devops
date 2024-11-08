@@ -22,6 +22,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2）将开发运维管理系统部署至公司环境，将应用发布至客户环境、访问服务器、查看日志、执行sql。<br><br>
 
+适配不同网络环境<br>
+<img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241108/2aac5467bf6b4fb8a7e1116c4f1e2a38.png"/>
+<br><br>
+技术栈<br>
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
