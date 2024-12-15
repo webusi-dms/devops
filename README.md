@@ -1,7 +1,7 @@
 <p align="center">
 	<img alt="logo" src="favicon.png">
 </p>
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">devops v1.2.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">devops v1.3.0</h1>
 <h4 align="center">基于SpringBoot+Vue前后端分离的轻量级开发运维管理系统</h4>
 <p align="center">
 	<a href="https://gitee.com/webusi/devops/stargazers"><img src="https://gitee.com/webusi/devops/badge/star.svg?theme=dark"></a>
@@ -37,6 +37,11 @@
 https://www.webusi.net
 
 ## 更新日志
+### 1.3.0 2024-12-15
+1.  优化：SQL执行器全新界面，更便捷
+2.  优化：WEB终端全新界面，更便捷
+3.  优化：文件传输全新界面，更便捷
+
 ### 1.2.0 2024-11-07
 1.  优化：应用发布，支持选择环境
 2.  优化：增加显示连接方式：直连、代理
@@ -98,11 +103,11 @@ https://www.webusi.net
         <td><img src="devops/devops-6.png"/></td>
     </tr>
     <tr>
-        <td><img src="devops/devops-7.png"/></td>
-        <td><img src="devops/devops-8.png"/></td>
+        <td><img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241215/b3523408b7c54ebe9e6eb9d364b7dc81.png"/></td>
+        <td><img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241215/bfd1cf62f93b464a90f7cb38aa8cb617.png"/></td>
     </tr>
     <tr>
-        <td><img src="devops/devops-9.png"/></td>
+        <td><img src="https://dms-base.oss-cn-hangzhou.aliyuncs.com/upload/20241215/0ba2d2771f004c60a6385b268dc82b4a.png"/></td>
         <td></td>
     </tr>
 </table>
