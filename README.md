@@ -40,6 +40,11 @@
 ## 团队产品
 https://www.webusi.net
 
+## 微信交流
+<tr>
+    <td><img style="width: 200px; height:200px;" src="devops/code.png"/></td>
+</tr>
+
 ## 更新日志
 ### 1.3.0 2024-12-15
 1.  优化：SQL执行器全新界面，更便捷
@@ -114,8 +119,3 @@ https://www.webusi.net
         <td><img src="devops/devops-6.png"/></td>
     </tr>
 </table>
-
-
-## 开发运维管理系统交流
-
-QQ： 43530640
