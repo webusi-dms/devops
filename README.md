@@ -40,7 +40,7 @@
 ## 团队产品
 https://www.webusi.net
 
-## 体验地址
+## 演示地址
 https://devops.webusi.net
 
 ## 微信交流
